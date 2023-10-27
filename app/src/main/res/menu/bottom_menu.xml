@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:checkable="true"
+        android:id="@+id/home"
+        android:icon="@drawable/bottom_btn1"
+        android:title="Home" />
+    <item
+        android:checkable="true"
+        android:id="@+id/profile"
+        android:icon="@drawable/bottom_btn2"
+        android:title="Profile" />
+    <item
+        android:checkable="true"
+        android:id="@+id/cart"
+        android:icon="@drawable/bottom_btn5"
+        android:title="Cart" />
+    <item
+        android:checkable="true"
+        android:id="@+id/support"
+        android:icon="@drawable/bottom_btn3"
+        android:title="Support" />
+    <item
+        android:checkable="true"
+        android:id="@+id/setting"
+        android:icon="@drawable/bottom_btn4"
+        android:title="Setting" />
+
+</menu>
